@@ -1,0 +1,8 @@
+
+This is the implementation of a 2 layer NN on the MNIST Dataset.
+
+The NN consists of input layer and output layer. The input layer gets 784 unit inputs and output layer has 10 units of neurons describing the probability of the output classes.
+
+Loss function : categorical crossentropy
+activation : softmax
+
